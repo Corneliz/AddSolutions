@@ -232,11 +232,15 @@ article:hover .caption{
     background: rgba(255, 255, 255, 1);  
 } 
 #QuienesSomos h3{   
-        color: rgba(255, 255, 255, 1);    
+        color: rgb(158, 206, 91);   
+}
+#QuienesSomos h3 i{   
+    color: rgb(135, 135, 152);
 }
 #QuienesSomos {   
-    background: #006777b0;
-    color: white;
+    background: #f6f7f8;
+    color: rgb(137, 137, 137);
+    font-family: Muli;
 }
 #QuienesSomos h2{   
     color: #333;
@@ -249,12 +253,12 @@ article:hover .caption{
     background-size: cover;
     padding-bottom: 4.5rem;
 }
-.carousel-inner .carousel-texto > h3{
+.carousel-inner .carousel-texto > h3 {
     font-size: 3em;
-    color: rgba(255, 255, 255, 0.92);
+    color: rgb(188, 211, 53);
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
-
+    text-shadow: 0px 0px 9px #333;
 }
 .carousel-inner .carousel-texto {
     position: absolute;
@@ -463,9 +467,9 @@ ol, ul {
 
 #FondoDistribuidor{
     background-image: url(../img/Productos/Distribuidor.jpg);
-    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    background-position-y: -117px;
 }
 #FondoBeneficios{
     background-image: url(../img/Productos/Beneficios.jpg);
@@ -706,6 +710,9 @@ padding-right: 3em;
   .img-carousel-left {
     position: relative;
     width: 60%;
+}
+img.img-carousel-left{    
+    width: 100%;
 }
 @supports (overflow:-webkit-marquee) and (justify-content:inherit)
 {
