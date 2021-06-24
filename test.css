@@ -1,0 +1,1491 @@
+ .assessment-wrapper {
+	 min-height: 350px;
+}
+ .assessment-wrapper .lrn-assess-btn {
+	 margin-left: 0;
+}
+ .assessment-wrapper .learnosity-parent {
+	 max-width: ;
+	 margin: 0 auto;
+}
+ .assessment-wrapper #close-review-assessment {
+	 max-width: ;
+}
+ .assessment-wrapper #printSection .container-fluid {
+	 max-width: ;
+}
+ .assessment-wrapper .assessment-margin {
+	 padding: 15px;
+	 background-color: white;
+	 border-radius: 4px;
+	 border: 1px solid #ccc;
+}
+ .assessment-wrapper .assessment-bkgroundgrey {
+	 background-color: #eee;
+	 padding: 40px;
+}
+ @media (min-width: ) and (max-width: ) {
+	 .assessment-wrapper .assessment-bkgroundgrey {
+		 padding: 20px;
+	}
+}
+ @media (min-width: ) and (max-width: ) {
+	 .assessment-wrapper .assessment-bkgroundgrey {
+		 padding: 10px;
+	}
+}
+ .assessment-wrapper .assessment-page-content {
+	 max-width: ;
+	 margin: 0 auto;
+}
+ .assessment-wrapper .assessment-page-content .container-fluid {
+	 padding: 0px;
+}
+ .assessment-wrapper .assessment-page-content .close-ldb-link {
+	 position: absolute;
+	 right: 20px;
+	 top: 35px;
+}
+ .assessment-wrapper .assessment-print-info-wrapper {
+	 padding-right: 40px;
+}
+ .assessment-wrapper .print-info {
+	 text-align: end;
+	 font-size: 14px;
+	 font-weight: 400;
+	 color: #37383b;
+	 cursor: default;
+}
+ .assessment-wrapper .print-info .print-info-popover {
+	 text-decoration: none;
+	 margin-right: 5px;
+}
+ .assessment-wrapper .print-info .print-info-popover:hover {
+	 text-decoration: none;
+}
+ .assessment-wrapper .print-info .print-info-popover:focus {
+	 text-decoration: none;
+	 outline: none;
+}
+ .assessment-wrapper .print-info .print-info-popover:focus .info-icon {
+	 box-shadow: 0 0 0 1px white, 0px 0px 5px 2px #0073d8;
+}
+ .assessment-wrapper .print-info .print-info-popover .info-icon {
+	 vertical-align: text-top;
+	 border-radius: 100%;
+	 height: 18px;
+	 cursor: pointer;
+	 cursor: hand;
+}
+ .assessment-wrapper .print-info .popover .popover-content {
+	 padding: 15px !important;
+	 line-height: 1.5;
+}
+ .assessment-wrapper .ldb-info {
+	 font-weight: 400;
+	 color: #37383b;
+	 cursor: default;
+	 padding-bottom: 5px;
+	 font-size: 1.25em;
+	 white-space: nowrap;
+}
+ .assessment-wrapper .ldb-info .ldb-info-popover {
+	 text-decoration: none;
+	 margin-right: 5px;
+	 padding: 0;
+	 background: transparent;
+	 border: 0;
+}
+ .assessment-wrapper .ldb-info .ldb-info-popover:hover {
+	 text-decoration: none;
+}
+ .assessment-wrapper .ldb-info .ldb-info-popover:focus {
+	 text-decoration: none;
+	 outline: none;
+}
+ .assessment-wrapper .ldb-info .ldb-info-popover:focus .info-icon {
+	 box-shadow: 0 0 0 1px white, 0px 0px 5px 2px #0073d8;
+}
+ .assessment-wrapper .ldb-info .ldb-info-popover .info-icon {
+	 border-radius: 100%;
+	 cursor: pointer;
+	 height: 20px;
+	 margin-bottom: 3px;
+}
+ .assessment-wrapper .ldb-info .popover {
+	 font-size: 14px;
+}
+ .assessment-wrapper .ldb-info .popover .popover-content {
+	 padding: 15px !important;
+	 line-height: 1.5;
+}
+ @media (max-width: 845px) {
+	 .assessment-wrapper .ldb-info .install-ldb-link {
+		 font-size: x-small;
+	}
+}
+ .assessment-wrapper .newWindowButtonIcon {
+	 height: 10px;
+	 width: 10px;
+	 margin-left: 10px;
+}
+ .assessment-wrapper .install-ldb-link {
+	 text-decoration: underline;
+	 padding-right: 14px;
+	 background-image: url('../images/url_icon_blue.svg');
+	 background-size: 10px 10px;
+	 background-repeat: no-repeat;
+	 background-position: right;
+	 background-color: transparent;
+	 color: #006fbf;
+	 border: solid 1px transparent;
+}
+ .assessment-wrapper .ldb-iframe {
+	 height: 0;
+	 width: 0;
+	 visibility: hidden;
+}
+ .assessment-wrapper .assessment-opener-frame .ldbFirstAttemptContainer .ldbMessageContainer {
+	 padding-bottom: 5px;
+	 font-size: 14px;
+}
+ .assessment-wrapper .assessment-opener-frame .ldbFirstAttemptContainer button.openLdbButton {
+	 white-space: nowrap;
+}
+ @media (max-width: ) {
+	 .assessment-wrapper .assessment-opener-frame .ldbFirstAttemptContainer button.openLdbButton {
+		 font-size: 3.4vw !important;
+	}
+}
+ .assessment-wrapper .assessment-opener-frame button sup {
+	 display: inline-block;
+	 width: 0.6875rem;
+	 height: 0.75rem;
+	 background-repeat: no-repeat;
+	 background-size: 100% 100%;
+	 margin-left: 3px;
+}
+ .assessment-wrapper .assessment-opener-frame button.btn-default sup {
+	 background-image: url('../images/new-window-icon.svg');
+}
+ .assessment-wrapper .assessment-opener-frame button.btn-primary sup {
+	 background-image: url('../images/new-window-icon-white.svg');
+}
+ .assessment-wrapper .assessment-opener-frame .top-notification-growler {
+	 position: absolute;
+	 width: 100%;
+	 margin-left: auto;
+	 margin-right: auto;
+	 left: 0;
+	 right: 0;
+	 z-index: 1000;
+}
+ .assessment-wrapper[class*="-gk-5"] {
+	 margin: 20px;
+	 padding: 30px;
+	 border: 5px solid #32698E;
+	 border-radius: 12px;
+}
+ .assessment-wrapper[class*="-gk-5"].has-ldb-close-link {
+	 margin-top: 25px;
+}
+ .assessment-wrapper[class*="-gk-5"] .assessment-bkgroundgrey {
+	 background-color: transparent;
+	 padding: 0;
+}
+ .assessment-wrapper[class*="-gk-5"] .k5-assessment-opener-wrapper {
+	 text-align: center;
+	 margin-left: 0;
+	 margin-right: 0;
+}
+ .assessment-wrapper[class*="-gk-5"] .k5-assessment-opener-wrapper .title-section {
+	 margin-bottom: 20px;
+}
+ .assessment-wrapper[class*="-gk-5"] .k5-assessment-opener-wrapper .start-assessment>.protected-section {
+	 margin-bottom: 20px;
+}
+ .assessment-wrapper[class*="-gk-5"] .k5-assessment-opener-wrapper .p-tag, .assessment-wrapper[class*="-gk-5"] .k5-assessment-opener-wrapper .icons-container, .assessment-wrapper[class*="-gk-5"] .k5-assessment-opener-wrapper .h4-tag {
+	 color: #37383b;
+}
+ .assessment-wrapper[class*="-gk-5"] .k5-assessment-opener-wrapper .p-tag, .assessment-wrapper[class*="-gk-5"] .k5-assessment-opener-wrapper .icons-container {
+	 font-weight: 400;
+	 font-size: 22px;
+	 padding-bottom: 0;
+}
+ .assessment-wrapper[class*="-gk-5"] .k5-assessment-opener-wrapper .h4-tag {
+	 font-weight: 700;
+	 font-size: 26px;
+	 margin: 0 0 20px 0;
+}
+ .assessment-wrapper[class*="-gk-5"] .icons-container {
+	 max-width: 60%;
+	 margin: 0 auto 20px auto;
+}
+ .assessment-wrapper[class*="-gk-5"] .icons-container .opener-icon {
+	 width: 50%;
+	 float: left;
+}
+ .assessment-wrapper[class*="-gk-5"] .icons-container .opener-icon .opener-icon-bg {
+	 width: 100px;
+	 height: 100px;
+	 margin: 0 auto;
+	 background-size: 100% 100%;
+	 background-repeat: no-repeat;
+	 background-position: center;
+}
+ .assessment-wrapper[class*="-gk-5"] .icons-container .opener-icon .time-bg {
+	 background-image: url('../images/assessment_icons_estimatedtime_k5.png');
+}
+ .assessment-wrapper[class*="-gk-5"] .icons-container .opener-icon .points-bg {
+	 background-image: url('../images/assessment_icons_totalpoints_k5.png');
+}
+ .assessment-wrapper[class*="-gk-5"] .icons-container .opener-icon .questions-bg {
+	 background-image: url('../images/assessment_icons_totalquestions_k5.png');
+}
+ .assessment-wrapper[class*="-gk-5"] .icons-container.has-points .opener-icon {
+	 width: 33.33%;
+}
+ .assessment-wrapper[class*="-gk-5"] .assessment-opener-label, .assessment-wrapper[class*="-gk-5"] .assessment-opener-value {
+	 display: block;
+}
+ .assessment-wrapper[class*="-gk-5"] .assessment-opener-value {
+	 font-weight: 700;
+	 font-size: 26px;
+}
+ .assessment-wrapper[class*="-gk-5"] .ldb-info {
+	 font-weight: 600;
+	 padding: 0;
+}
+ .assessment-wrapper[class*="-gk-5"] .ldb-info .ldb-info-popover .info-icon {
+	 height: auto;
+	 margin-bottom: initial;
+}
+ .assessment-wrapper[class*="-gk-5"] .ldb-info .popover {
+	 font-size: 22px;
+	 font-weight: 400;
+	 max-width: 500px;
+}
+ @media (max-width: 500px) {
+	 .assessment-wrapper[class*="-gk-5"] .ldb-info .popover {
+		 max-width: 300px;
+	}
+}
+ .assessment-wrapper[class*="-gk-5"] .ldb-info .popover .popover-content {
+	 padding: 25px !important;
+}
+ .assessment-wrapper[class*="-gk-5"] .ldb-info .install-ldb-link {
+	 background-size: 15px 15px;
+	 padding-right: 22px;
+	 white-space: initial;
+}
+ .assessment-wrapper[class*="-gk-5"] .buttons .ldb-info {
+	 font-size: 22px;
+}
+ .assessment-wrapper[class*="-gk-5"] .buttons .ldb-info .install-ldb-link {
+	 background-position: 100% 0;
+}
+ .assessment-wrapper[class*="-gk-5"] .buttons .retake-button .new-window {
+	 display: inline-block;
+	 background-image: url('../images/new-window-icon-gray.svg');
+	 background-repeat: no-repeat;
+	 background-size: 100% 100%;
+	 width: 15px;
+	 height: 15px;
+}
+ .assessment-wrapper[class*="-gk-5"] .ldb-wrapper .ldb-info {
+	 font-size: 28px;
+}
+ .assessment-wrapper[class*="-gk-5"] .ldb-wrapper .ldb-info .install-ldb-link {
+	 background-position: 100% 10px;
+}
+ .assessment-wrapper[class*="-gk-5"] .ldb-wrapper .ldb-message-container {
+	 padding-bottom: 15px;
+}
+ .assessment-wrapper[class*="-gk-5"] .ldb-wrapper .btn-ldb {
+	 margin-top: 30px;
+}
+ @media (max-width: ) {
+	 .assessment-wrapper[class*="-gk-5"] .ldb-wrapper {
+		 margin: 0 auto;
+	}
+}
+ @media (max-width: 845px) {
+	 .assessment-wrapper[class*="-gk-5"] .ldb-info .install-ldb-link {
+		 font-size: inherit;
+	}
+}
+ .assessment-wrapper[class*="-gk-5"] .btn-start, .assessment-wrapper[class*="-gk-5"] .btn-resume {
+	 padding-left: 150px;
+	 padding-right: 150px;
+}
+ .assessment-wrapper[class*="-gk-5"] .btn-start .white-arrow-icon, .assessment-wrapper[class*="-gk-5"] .btn-resume .white-arrow-icon, .assessment-wrapper[class*="-gk-5"] .btn-ldb .white-arrow-icon {
+	 position: relative;
+	 top: -2px;
+	 left: 5px;
+}
+ @media (max-width: ) {
+	 .assessment-wrapper[class*="-gk-5"] {
+		 margin: 20px;
+	}
+	 .assessment-wrapper[class*="-gk-5"] .icons-container {
+		 max-width: 80%;
+	}
+}
+ @media (max-width: ) {
+	 .assessment-wrapper[class*="-gk-5"] {
+		 padding: 30px;
+	}
+	 .assessment-wrapper[class*="-gk-5"] .opener-start-panel {
+		 margin: initial;
+	}
+	 .assessment-wrapper[class*="-gk-5"] .is-lesson-play-opener-wrapper .h4-tag {
+		 margin-bottom: 30px;
+	}
+	 .assessment-wrapper[class*="-gk-5"] .icons-container {
+		 max-width: initial;
+		 margin: 30px auto;
+	}
+	 .assessment-wrapper[class*="-gk-5"] .icons-container .opener-icon {
+		 width: 100% !important;
+	}
+	 .assessment-wrapper[class*="-gk-5"] .icons-container .opener-icon:first-child {
+		 margin-bottom: 30px;
+	}
+	 .assessment-wrapper[class*="-gk-5"] .icons-container.has-points .opener-icon:last-child {
+		 margin-top: 30px;
+	}
+	 .assessment-wrapper[class*="-gk-5"] .btn-start, .assessment-wrapper[class*="-gk-5"] .btn-resume {
+		 padding-left: initial;
+		 padding-right: initial;
+	}
+}
+ .assessment-wrapper .assessment-closer-wrapper {
+	 max-width: ;
+	 margin: 0 auto;
+	 text-align: center;
+	 background-color: white;
+	 padding-top: 80px;
+	 padding-bottom: 80px;
+	 border-radius: 4px;
+	 border: 1px solid #ccc;
+}
+ @media (max-width: ) {
+	 .assessment-wrapper .assessment-closer-wrapper .review-button-wrapper > .k5-btn-primary, .assessment-wrapper .assessment-closer-wrapper .review-button-wrapper-non-scored > .k5-btn-primary {
+		 margin: 0px 20px;
+		 width: calc(100% - 40px);
+	}
+}
+ @media (max-width: ) {
+	 .assessment-wrapper .assessment-closer-wrapper button.review-btn, .assessment-wrapper .assessment-closer-wrapper button.lockdown-btn {
+		 width: 90%;
+		 margin: 0 0.5rem;
+	}
+}
+ .assessment-wrapper .assessment-closer-wrapper .assessment-notification, .assessment-wrapper .assessment-closer-wrapper .assessment-notification-warning {
+	 margin: -100px auto 20px auto;
+	 text-align: left;
+}
+ .assessment-wrapper .assessment-closer-wrapper .your-grade, .assessment-wrapper .assessment-closer-wrapper .you-answered {
+	 font-weight: 500;
+	 font-size: 1.5rem;
+}
+ .assessment-wrapper .assessment-closer-wrapper .score-percent {
+	 font-weight: bold;
+	 font-size: 5rem;
+	 line-height: 1;
+}
+ .assessment-wrapper .assessment-closer-wrapper .score-points {
+	 font-weight: 500;
+	 font-size: 1.5rem;
+	 margin-bottom: 30px;
+}
+ .assessment-wrapper .assessment-closer-wrapper .horizontal-rule {
+	 border-bottom: solid 2px #333333;
+	 margin: 30px;
+}
+ .assessment-wrapper .assessment-simple-closer {
+	 margin: 20px 0;
+	 padding: 20px 20px;
+}
+ .assessment-wrapper .closer-instructions {
+	 margin: 30px 0;
+	 font-size: 1.25rem;
+	 font-weight: 700;
+}
+ .assessment-wrapper[class*="-gk-5"] {
+	 min-height: 0;
+}
+ .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper {
+	 border: none;
+	 padding: 20px 0;
+	 margin: 0;
+}
+ .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper.is-no-closer {
+	 padding: 95px 0;
+}
+ @media (max-width: ) {
+	 .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper.is-no-closer {
+		 padding: 0;
+	}
+}
+ @media (max-width: ) {
+	 .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper {
+		 padding: 10px 0;
+	}
+}
+ .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper .your-grade, .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper .you-answered {
+	 padding-bottom: 40px;
+	 margin: 0;
+}
+ @media (max-width: ) {
+	 .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper .your-grade, .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper .you-answered {
+		 padding-bottom: 25px;
+	}
+}
+ .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper .score-percent {
+	 padding-bottom: 25px;
+}
+ @media (max-width: ) {
+	 .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper .score-percent {
+		 padding-bottom: 25px;
+	}
+}
+ .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper .score-points {
+	 padding-bottom: 40px;
+}
+ @media (max-width: ) {
+	 .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper .score-points {
+		 padding-bottom: 25px;
+	}
+}
+ .assessment-wrapper[class*="-gk-5"] .assessment-closer-wrapper .closer-instructions {
+	 padding-bottom: 25px;
+}
+ .assessment-wrapper .assessment-lc-login-modal-container .lesson-resume-content {
+	 padding-bottom: 25px;
+}
+ .assessment-wrapper .assessment-lc-login-modal-container .form-horizontal {
+	 padding-top: 25px;
+}
+ .assessment-wrapper .assessment-lc-login-modal-container .attendance-form-row:not(:last-child) {
+	 padding-bottom: 10px;
+}
+ .assessment-wrapper .assessment-lc-login-modal-container .attendance-form-row.lc-auth-failed {
+	 margin-bottom: 0;
+}
+ .assessment-wrapper .assessment-lc-login-modal-container .authFailedMessage {
+	 padding: 10px 0 0 0;
+}
+ .assessment-wrapper .assessment-lc-login-modal-container .lc-auth-button {
+	 padding-left: 35px;
+	 padding-right: 35px;
+}
+ @media (max-width: ) {
+	 .assessment-wrapper .assessment-lc-login-modal-container .lc-auth-button {
+		 padding-left: initial;
+		 padding-right: initial;
+	}
+}
+ .assessment-sample-answer {
+	 padding-left: 10px !important;
+}
+ .question_level_feedback {
+	 padding-left: 35px !important;
+}
+ #openernotification {
+	 position: absolute;
+	 left: 50%;
+	 top: 40px;
+	 width: 80%;
+	 max-width: 600px;
+	 background-color: transparent;
+	 -webkit-transform: translateX(-50%);
+	 transform: translateX(-50%);
+}
+ .lrn .popover {
+	 visibility: hidden;
+}
+ .lrn_incorrect .p-tag {
+	 padding-left: 20px;
+}
+ .lrn_correct .p-tag {
+	 padding-left: 20px;
+}
+ .lrn-assess {
+	 margin: 0px !important;
+	 padding-left: 0px !important;
+}
+ .lrn-assess .lrn-horizontal-toc .pagination .lrn-assess-li {
+	 z-index: 200;
+}
+ .lrn-assess .lrn-horizontal-toc .pagination .pagination-active {
+	 z-index: 210;
+}
+ .lrn_font_size_normal {
+	 margin-left: 0px !important;
+	 padding-left: 0px !important;
+}
+ .lrn-items-region {
+	 margin-left: 0px !important;
+	 padding-left: 0px !important;
+}
+ .theme-g6-12 .assessment-opener-frame .h4-tag {
+	 font-family: Bitter;
+}
+ .assessment-opener-frame {
+	 background-color: #fff;
+	 border: 1px solid #bbb;
+	 border-radius: 5px;
+	 padding: 20px;
+	 position: relative;
+}
+ .assessment-opener-frame .h4-tag {
+	 font-size: 1.375rem;
+	 color: #5e2d86;
+	 margin: 0px;
+}
+ .assessment-opener-frame .arrow-opener-type {
+	 padding: 5px 0 5px 1.25em;
+	 font-weight: 400;
+	 font-size: 16px;
+	 color: #fff;
+	 background: url('../images/Flag_Icon.svg') no-repeat top left;
+	 margin-left: -36px;
+}
+ .assessment-opener-frame .arrow-opener-type-no-graded {
+	 padding: 5px 0;
+	 height: 32px;
+}
+ .assessment-opener-frame .title-section {
+	 text-align: center;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .title-section {
+		 margin-top: 12px;
+	}
+}
+ .assessment-opener-frame .title-section .h4-tag {
+	 padding-left: 1em;
+	 padding-bottom: 0.7727em;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .title-section .h4-tag {
+		 padding-left: 0;
+	}
+}
+ @media (min-width: ) {
+	 .assessment-opener-frame .title-section .p-tag.course-readiness-diagnostic {
+		 padding-left: 3.5rem;
+		 padding-right: 3.5rem;
+	}
+}
+ .assessment-opener-frame .title-section .p-tag, .assessment-opener-frame .title-section strong {
+	 color: #37383b;
+	 padding-top: 5px;
+	 font-weight: 300;
+	 line-height: 1.5;
+}
+ .assessment-opener-frame .icons-section .p-tag, .assessment-opener-frame .icons-section strong {
+	 color: #37383b;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .icons-section .opener-icon {
+		 width: 100%;
+	}
+}
+ .assessment-opener-frame .icons-section .icons-container {
+	 display: flex;
+	 display: -ms-flexbox;
+	 display: -webkit-flex;
+	 justify-content: space-around;
+	 -webkit-justify-content: space-around;
+	 margin-top: 1rem;
+}
+ .assessment-opener-frame .icons-section .opener-icon {
+	 text-align: left;
+	 padding: 0;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .icons-section .opener-icon {
+		 padding-left: 0px;
+	}
+}
+ .assessment-opener-frame .icons-section .opener-icon p.time, .assessment-opener-frame .icons-section .opener-icon p.points {
+	 margin-left: 70px;
+	 margin-top: 20px;
+	 white-space: nowrap;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .icons-section .opener-icon p.time strong.assessment-opener-value, .assessment-opener-frame .icons-section .opener-icon p.points strong.assessment-opener-value, .assessment-opener-frame .icons-section .opener-icon p.questions strong.assessment-opener-value {
+		 font-size: 19px;
+	}
+}
+ .assessment-opener-frame .icons-section .opener-icon p.time strong, .assessment-opener-frame .icons-section .opener-icon p.points strong, .assessment-opener-frame .icons-section .opener-icon p.questions strong {
+	 font-size: 1.5em;
+}
+ .assessment-opener-frame .icons-section .opener-icon p.questions {
+	 margin-left: 82px;
+	 margin-top: 20px;
+	 white-space: nowrap;
+}
+ .assessment-opener-frame .icons-section .opener-icon p strong {
+	 font-weight: bold;
+}
+ .assessment-opener-frame .icons-section .opener-icon .time-bg {
+	 width: 66px;
+	 height: 66px;
+	 background: url('../images/assessment_icons_estimatedtime@2x.png') no-repeat center center;
+	 background-size: 100% 100%;
+	 float: left;
+	 margin-right: 5px;
+}
+ .assessment-opener-frame .icons-section .opener-icon .points-bg {
+	 width: 66px;
+	 height: 66px;
+	 background: url('../images/assessment_icons_totalpoints@2x.png') no-repeat center center;
+	 background-size: 100% 100%;
+	 float: left;
+	 margin-right: 5px;
+}
+ .assessment-opener-frame .icons-section .opener-icon .questions-bg {
+	 width: 66px;
+	 height: 66px;
+	 background: url('../images/assessment_icons_totalquestions@2x.png') no-repeat center center;
+	 background-size: 100% 100%;
+	 float: left;
+	 margin-right: 5px;
+}
+ .assessment-opener-frame div.details.attempt-detail.no-score {
+	 margin: 0 0 0 2%;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame div.details.attempt-detail.no-score {
+		 margin: 0 3% 0 2%;
+	}
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame div.details {
+		 text-align: center;
+		 margin-left: 0 !important;
+	}
+	 .assessment-opener-frame div.details.attempt-detail {
+		 padding: 0 3rem;
+		 margin: 0;
+	}
+	 .assessment-opener-frame div.details p.p-tag {
+		 padding: 1px 8px 5px 8px;
+	}
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .opener-status-panel .score {
+		 margin-top: 12px;
+	}
+	 .assessment-opener-frame div.score {
+		 margin: 0 !important;
+	}
+}
+ .assessment-opener-frame div.score p.p-tag {
+	 line-height: 15px;
+}
+ .assessment-opener-frame .opener-status-panel, .assessment-opener-frame .opener-start-panel {
+	 background-color: #EFF3F6;
+	 border-radius: 5px;
+	 text-align: left;
+	 padding-top: 12px;
+	 padding-bottom: 12px;
+	 margin-top: 20px;
+}
+ .assessment-opener-frame .opener-status-panel .score .p-tag, .assessment-opener-frame .opener-status-panel .details .p-tag, .assessment-opener-frame .opener-start-panel .score .p-tag, .assessment-opener-frame .opener-start-panel .details .p-tag {
+	 margin: 0;
+}
+ .assessment-opener-frame .opener-status-panel .score .p-tag, .assessment-opener-frame .opener-status-panel .score strong, .assessment-opener-frame .opener-status-panel .details .p-tag, .assessment-opener-frame .opener-status-panel .details strong, .assessment-opener-frame .opener-start-panel .score .p-tag, .assessment-opener-frame .opener-start-panel .score strong, .assessment-opener-frame .opener-start-panel .details .p-tag, .assessment-opener-frame .opener-start-panel .details strong {
+	 color: #565a5c;
+}
+ .assessment-opener-frame .opener-status-panel .score, .assessment-opener-frame .opener-start-panel .score {
+	 text-align: center;
+}
+ .assessment-opener-frame .opener-status-panel .score .p-tag, .assessment-opener-frame .opener-start-panel .score .p-tag {
+	 font-weight: 900;
+	 font-size: 12px;
+	 line-height: 15px;
+}
+ .assessment-opener-frame .opener-status-panel .score .p-tag strong, .assessment-opener-frame .opener-start-panel .score .p-tag strong {
+	 font-size: 30px;
+	 padding-left: 13px;
+	 font-weight: 900;
+}
+ .assessment-opener-frame .opener-status-panel .score .p-tag sup, .assessment-opener-frame .opener-start-panel .score .p-tag sup {
+	 font-size: 20px;
+	 font-weight: normal;
+	 top: -6px;
+}
+ .assessment-opener-frame .opener-status-panel .details, .assessment-opener-frame .opener-start-panel .details {
+	 font-size: 14px;
+	 color: #565a5c;
+	 margin-left: 33px;
+}
+ .assessment-opener-frame .opener-status-panel .details .p-tag, .assessment-opener-frame .opener-start-panel .details .p-tag {
+	 padding-bottom: 12px;
+	 font-weight: 500;
+	 font-size: inherit;
+}
+ .assessment-opener-frame .opener-status-panel .details strong, .assessment-opener-frame .opener-start-panel .details strong {
+	 font-size: inherit;
+	 font-weight: bold;
+}
+ .assessment-opener-frame .opener-status-panel .details strong.max-attempts, .assessment-opener-frame .opener-start-panel .details strong.max-attempts {
+	 font-style: italic;
+}
+ .assessment-opener-frame .opener-status-panel .start-assessment, .assessment-opener-frame .opener-start-panel .start-assessment {
+	 text-align: center;
+	 vertical-align: middle;
+}
+ .assessment-opener-frame .opener-status-panel .start-assessment>.protected-section, .assessment-opener-frame .opener-start-panel .start-assessment>.protected-section {
+	 margin-bottom: 20px;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .opener-status-panel .start-assessment, .assessment-opener-frame .opener-start-panel .start-assessment {
+		 padding: 0;
+	}
+}
+ .assessment-opener-frame .opener-status-panel .passwordSectionContainer, .assessment-opener-frame .opener-start-panel .passwordSectionContainer {
+	 text-align: center;
+	 margin-top: 10px;
+}
+ .assessment-opener-frame .opener-status-panel .passwordDisabledButtonContainer, .assessment-opener-frame .opener-start-panel .passwordDisabledButtonContainer {
+	 margin-top: 10px;
+}
+ @media (min-width: ) {
+	 .assessment-opener-frame .opener-status-panel .passwordDisabledButtonContainer.buttons button.retake-button-disabled, .assessment-opener-frame .opener-status-panel .passwordDisabledButtonContainer.buttons button.retake-button, .assessment-opener-frame .opener-start-panel .passwordDisabledButtonContainer.buttons button.retake-button-disabled, .assessment-opener-frame .opener-start-panel .passwordDisabledButtonContainer.buttons button.retake-button {
+		 width: auto;
+	}
+}
+ .assessment-opener-frame .opener-status-panel .passwordDisabledButtonContainer button.retake-button-disabled, .assessment-opener-frame .opener-status-panel .passwordDisabledButtonContainer button.retake-button, .assessment-opener-frame .opener-start-panel .passwordDisabledButtonContainer button.retake-button-disabled, .assessment-opener-frame .opener-start-panel .passwordDisabledButtonContainer button.retake-button {
+	 padding: 15px 65px;
+}
+ .assessment-opener-frame .opener-status-panel .passwordDisabledButtonContainer.buttons, .assessment-opener-frame .opener-start-panel .passwordDisabledButtonContainer.buttons {
+	 margin: 0 auto;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .opener-status-panel .passwordDisabledButtonContainer .retake-button-disabled, .assessment-opener-frame .opener-start-panel .passwordDisabledButtonContainer .retake-button-disabled {
+		 padding: 13px 0 !important;
+	}
+}
+ .assessment-opener-frame .opener-status-panel .passwordProtectedMessage, .assessment-opener-frame .opener-start-panel .passwordProtectedMessage {
+	 color: #37383b;
+	 font-size: 1.25em;
+	 font-weight: 300;
+	 line-height: 1.5;
+}
+ .assessment-opener-frame .opener-status-panel .password-protected-icon, .assessment-opener-frame .opener-start-panel .password-protected-icon {
+	 height: 17px;
+	 width: 14px;
+	 margin-right: 8px;
+}
+ .assessment-opener-frame .opener-status-panel .submit-arrow-container, .assessment-opener-frame .opener-start-panel .submit-arrow-container {
+	 padding: 12px 20px 12px 20px;
+	 display: inline;
+	 border-top-right-radius: 8px;
+	 border-bottom-right-radius: 8px;
+	 background-color: #36587f;
+	 margin-left: -5px;
+}
+ .assessment-opener-frame .opener-status-panel .password-protected-submit-arrow, .assessment-opener-frame .opener-start-panel .password-protected-submit-arrow {
+	 width: 10px;
+	 height: 16px;
+}
+ .assessment-opener-frame .opener-status-panel .passwordProtectedInputLabel, .assessment-opener-frame .opener-start-panel .passwordProtectedInputLabel {
+	 color: #37383b;
+	 font-size: 20px;
+	 font-weight: 400;
+	 line-height: 1.5;
+}
+ @media (min-width: 1120px) {
+	 .assessment-opener-frame .opener-status-panel .passwordProtectedInputLabel, .assessment-opener-frame .opener-start-panel .passwordProtectedInputLabel {
+		 display: block;
+	}
+}
+ .assessment-opener-frame .opener-status-panel #assessmentPasswordInput, .assessment-opener-frame .opener-start-panel #assessmentPasswordInput {
+	 padding: 9px 10px 10px 10px;
+	 border: 1px solid #D3D9E3;
+	 border-top-left-radius: 8px;
+	 border-bottom-left-radius: 8px;
+	 font-size: 16px;
+	 text-indent: 13px;
+	 transition: border 0.5s ease;
+	 color: #37383B;
+	 background: #FFFFFF;
+	 box-shadow: inset 0px 3px 0px 0px rgba(0,0,0,0.05);
+	 width: 60%;
+	 max-width: 340px;
+	 min-width: 100px;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .opener-status-panel #assessmentPasswordInput, .assessment-opener-frame .opener-start-panel #assessmentPasswordInput {
+		 width: 55%;
+	}
+}
+ .assessment-opener-frame .opener-status-panel #assessmentPasswordInput:focus, .assessment-opener-frame .opener-start-panel #assessmentPasswordInput:focus {
+	 background-color: #ffffcc;
+	 border: 2px solid #0073d8;
+	 border-radius: 4px;
+	 padding: 10px;
+}
+ .assessment-opener-frame .opener-status-panel #assessmentPasswordInputHasAttempts.error, .assessment-opener-frame .opener-status-panel #assessmentPasswordInput.error, .assessment-opener-frame .opener-start-panel #assessmentPasswordInputHasAttempts.error, .assessment-opener-frame .opener-start-panel #assessmentPasswordInput.error {
+	 border: 1px solid #da3a40;
+}
+ .assessment-opener-frame .opener-status-panel #assessmentPasswordInputHasAttempts, .assessment-opener-frame .opener-start-panel #assessmentPasswordInputHasAttempts {
+	 padding: 11px 10px 10px 10px;
+	 border: 1px solid #D3D9E3;
+	 border-top-left-radius: 8px;
+	 border-bottom-left-radius: 8px;
+	 font-size: 1em;
+	 text-indent: 13px;
+	 transition: border 0.5s ease;
+	 color: #37383B;
+	 background: #FFFFFF;
+	 box-shadow: inset 0px 3px 0px 0px rgba(0,0,0,0.05);
+	 width: 50%;
+}
+ @media (max-width: 1120px) {
+	 .assessment-opener-frame .opener-status-panel #assessmentPasswordInputHasAttempts, .assessment-opener-frame .opener-start-panel #assessmentPasswordInputHasAttempts {
+		 width: 62%;
+	}
+}
+ .assessment-opener-frame .opener-status-panel .passwordErrorBox, .assessment-opener-frame .opener-start-panel .passwordErrorBox {
+	 color: #DA3A40;
+	 font-size: 1em;
+	 font-weight: 400;
+	 padding-top: 5px;
+	 padding-bottom: 20px;
+}
+ .assessment-opener-frame .opener-status-panel .login-section, .assessment-opener-frame .opener-start-panel .login-section {
+	 width: 70%;
+	 margin: 0.5rem 15%;
+}
+ @media (max-width: ) and (min-width: ) {
+	 .assessment-opener-frame .opener-status-panel .login-section, .assessment-opener-frame .opener-start-panel .login-section {
+		 width: 46%;
+		 margin: 0.5rem auto;
+	}
+}
+ @media (max-width: ) and (min-width: ) {
+	 .assessment-opener-frame .opener-status-panel .login-section, .assessment-opener-frame .opener-start-panel .login-section {
+		 width: 75%;
+		 margin: 0.5rem auto;
+	}
+}
+ .assessment-opener-frame .opener-status-panel .buttons, .assessment-opener-frame .opener-start-panel .buttons {
+	 width: 41.66666%;
+	 margin: 0 1rem;
+}
+ .assessment-opener-frame .opener-status-panel .buttons.start-assessment, .assessment-opener-frame .opener-start-panel .buttons.start-assessment {
+	 width: 50%;
+	 margin: 0 auto;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .opener-status-panel .buttons, .assessment-opener-frame .opener-start-panel .buttons {
+		 width: 100%;
+		 padding: 0 1rem;
+		 margin: 0;
+	}
+	 .assessment-opener-frame .opener-status-panel .buttons.start-assessment, .assessment-opener-frame .opener-start-panel .buttons.start-assessment {
+		 width: 100%;
+		 padding: 0 1rem;
+	}
+	 .assessment-opener-frame .opener-status-panel .buttons.passwordDisabledButtonContainer, .assessment-opener-frame .opener-start-panel .buttons.passwordDisabledButtonContainer {
+		 padding: 0;
+	}
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .opener-status-panel .buttons.start-assessment, .assessment-opener-frame .opener-start-panel .buttons.start-assessment {
+		 width: 100%;
+		 padding: 0;
+	}
+}
+ .assessment-opener-frame .opener-status-panel .buttons .btn, .assessment-opener-frame .opener-start-panel .buttons .btn {
+	 margin: 4px 0;
+	 border-width: 2px;
+	 display: inline-block;
+	 text-align: center;
+	 vertical-align: middle;
+	 cursor: pointer;
+	 border: 1px solid transparent;
+	 white-space: nowrap;
+	 padding: 1.25em 4.125em;
+	 line-height: 1.42857143;
+	 border-radius: 8px;
+	 -webkit-user-select: none;
+	 -moz-user-select: none;
+	 -ms-user-select: none;
+	 user-select: none;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .opener-status-panel .buttons .btn.single-button, .assessment-opener-frame .opener-start-panel .buttons .btn.single-button {
+		 padding: 22px 20px !important;
+	}
+}
+ .assessment-opener-frame .opener-status-panel .buttons .btn.retake-button.btn-default, .assessment-opener-frame .opener-start-panel .buttons .btn.retake-button.btn-default {
+	 padding: 14px 65px;
+}
+ .assessment-opener-frame .opener-status-panel .buttons .btn.non-protected-btn, .assessment-opener-frame .opener-start-panel .buttons .btn.non-protected-btn {
+	 padding: 15px 65px;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .opener-status-panel .buttons .btn.non-protected-btn, .assessment-opener-frame .opener-start-panel .buttons .btn.non-protected-btn {
+		 padding-top: 13px !important;
+		 padding-bottom: 13px !important;
+	}
+}
+ .assessment-opener-frame .opener-status-panel .buttons .btn.retake-button.single-button, .assessment-opener-frame .opener-status-panel .buttons .btn.retake-button.lock-down-browser-btn, .assessment-opener-frame .opener-start-panel .buttons .btn.retake-button.single-button, .assessment-opener-frame .opener-start-panel .buttons .btn.retake-button.lock-down-browser-btn {
+	 width: auto;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .opener-status-panel .buttons .btn.retake-button.single-button, .assessment-opener-frame .opener-status-panel .buttons .btn.retake-button.lock-down-browser-btn, .assessment-opener-frame .opener-start-panel .buttons .btn.retake-button.single-button, .assessment-opener-frame .opener-start-panel .buttons .btn.retake-button.lock-down-browser-btn {
+		 width: 100%;
+	}
+}
+ .assessment-opener-frame .opener-status-panel .buttons .btn-extra-wide, .assessment-opener-frame .opener-start-panel .buttons .btn-extra-wide {
+	 font-size: 24px !important;
+	 padding: 25px 75px !important;
+	 border-radius: 12px;
+	 width: auto;
+}
+ .assessment-opener-frame .opener-status-panel .buttons .btn-primary, .assessment-opener-frame .opener-start-panel .buttons .btn-primary {
+	 background-image: none;
+	 background-color: #006fbf;
+	 color: #fff;
+	 transition: all 0.25s ease 0s;
+	 font-size: 16px;
+	 border: medium none;
+}
+ @media (min-width: ) {
+	 .assessment-opener-frame .opener-status-panel .buttons .btn-primary.single-button, .assessment-opener-frame .opener-start-panel .buttons .btn-primary.single-button {
+		 padding: 15px 65px !important;
+	}
+}
+ .assessment-opener-frame .opener-status-panel .buttons .btn-primary:hover, .assessment-opener-frame .opener-start-panel .buttons .btn-primary:hover {
+	 background-color: #1c5295;
+}
+ .assessment-opener-frame .opener-status-panel .buttons .btn-primary:focus, .assessment-opener-frame .opener-start-panel .buttons .btn-primary:focus {
+	 outline: medium none;
+	 box-shadow: 0px 0px 0px 1px #FFF, 0px 0px 5px 2px #0073D8;
+	 color: #FFF;
+	 background-color: #1C5295;
+}
+ .assessment-opener-frame .opener-status-panel .buttons .btn-default, .assessment-opener-frame .opener-start-panel .buttons .btn-default {
+	 background-image: none;
+	 background-color: #f1f5f9;
+	 color: #37383b;
+	 border: 1px solid #bdbdbd;
+	 padding: 1.18em 4.125em;
+	 font-size: 16px;
+	 color: #37383B;
+	 transition: all 0.25s ease 0s;
+}
+ .assessment-opener-frame .opener-status-panel .buttons .btn-default:hover, .assessment-opener-frame .opener-start-panel .buttons .btn-default:hover {
+	 border-color: #37383b;
+	 color: #006fbf;
+}
+ .assessment-opener-frame .opener-status-panel .buttons .btn-default:focus, .assessment-opener-frame .opener-start-panel .buttons .btn-default:focus {
+	 outline: medium none;
+	 box-shadow: 0px 0px 0px 1px #FFF, 0px 0px 5px 2px #0073D8;
+	 color: #37383B;
+	 background-color: #F0F8FF;
+	 border-color: #37383B;
+}
+ .assessment-opener-frame .opener-status-panel .buttons .retake-button-disabled, .assessment-opener-frame .opener-start-panel .buttons .retake-button-disabled {
+	 background-color: #006FBF;
+	 border: medium none;
+	 border-radius: 8px;
+	 color: #FFF;
+	 cursor: not-allowed;
+	 opacity: 0.4;
+	 transition: all 0.25s ease 0s;
+	 width: 100%;
+}
+ .assessment-opener-frame .opener-status-panel .buttons .retake-button-disabled:hover, .assessment-opener-frame .opener-start-panel .buttons .retake-button-disabled:hover {
+	 background-color: #006fbf;
+}
+ .assessment-opener-frame .opener-status-panel .buttons .retake-button-disabled:focus, .assessment-opener-frame .opener-start-panel .buttons .retake-button-disabled:focus {
+	 outline: none;
+	 box-shadow: none;
+	 border: none;
+	 background-color: #006fbf;
+}
+ @media (max-width: 643px) {
+	 .assessment-opener-frame .opener-status-panel .buttons .btn-extra-wide, .assessment-opener-frame .opener-start-panel .buttons .btn-extra-wide {
+		 font-size: 20px !important;
+		 padding: 15px 36px !important;
+		 width: 100%;
+	}
+}
+ .assessment-opener-frame .opener-start-panel {
+	 background-color: #fff;
+	 padding-bottom: 32px;
+}
+ .assessment-opener-frame .opener-start-panel .reset-attempt-link {
+	 text-decoration: underline;
+	 font-weight: bold;
+}
+ .assessment-opener-frame .previous-attempts-section div {
+	 padding: 0px;
+}
+ .assessment-opener-frame .previous-attempts-section .attempts-title {
+	 margin: 30px 0 32px 0;
+	 font-size: 18px;
+	 font-weight: 900;
+	 cursor: pointer;
+	 color: #565a5c;
+}
+ .assessment-opener-frame .previous-attempts-section .attempts-title .attempt-list-icon {
+	 display: inline-block;
+	 margin-bottom: 2px;
+}
+ .assessment-opener-frame .previous-attempts-section .attempts-title .attempt-list-icon.right {
+	 background: url('../images/arrow-right.svg') no-repeat center center;
+	 background-size: cover;
+	 width: 5px;
+	 height: 10px;
+	 margin-right: 5px;
+}
+ .assessment-opener-frame .previous-attempts-section .attempts-title .attempt-list-icon.down {
+	 background: url('../images/arrow-down.svg') no-repeat center center;
+	 background-size: cover;
+	 width: 10px;
+	 height: 5px;
+}
+ .assessment-opener-frame .previous-attempts-section .previous-attempts div.col-md-12 {
+	 padding: 0px 0px 32px 0px;
+}
+ @media (min-width: ) {
+	 .assessment-opener-frame .previous-attempts-section .previous-attempts .buttons {
+		 padding-left: 0.7%;
+	}
+}
+ @media (max-width: 905px) and (min-width: 845px) {
+	 .assessment-opener-frame .previous-attempts-section .previous-attempts .buttons {
+		 margin-left: 1.5%;
+	}
+}
+ .assessment-opener-frame .previous-attempts-section div.score {
+	 text-align: center;
+	 color: #565a5c;
+	 margin: 0 4.5%;
+}
+ .assessment-opener-frame .previous-attempts-section div.score p.p-tag {
+	 width: 78px;
+}
+ .assessment-opener-frame .previous-attempts-section div.score span {
+	 font-size: 12px;
+	 font-weight: 900;
+}
+ .assessment-opener-frame .previous-attempts-section div.score strong {
+	 font-size: 30px;
+	 font-weight: 900;
+	 padding-left: 10px;
+}
+ .assessment-opener-frame .previous-attempts-section div.score sup {
+	 top: -6px;
+	 font-size: 20px;
+}
+ .assessment-opener-frame .previous-attempts-section div.details .p-tag {
+	 font-size: 14px;
+	 font-weight: 500;
+	 color: #565a5c;
+	 margin-left: 33px;
+	 padding-left: 15px;
+}
+ .assessment-opener-frame .previous-attempts-section div.details strong {
+	 font-weight: bold;
+}
+ .assessment-opener-frame .previous-attempts-section div.review-attempt-buttons {
+	 width: 41.66666%;
+	 margin: 0 1rem;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .previous-attempts-section div.review-attempt-buttons {
+		 width: 100%;
+	}
+	 .assessment-opener-frame .previous-attempts-section div.review-attempt-buttons.buttons {
+		 padding: 0 1rem;
+	}
+	 .assessment-opener-frame .previous-attempts-section div.review-attempt-buttons.buttons .btn-default {
+		 padding-top: 13px !important;
+		 padding-bottom: 13px !important;
+	}
+}
+ .assessment-opener-frame .previous-attempts-section div.buttons .btn {
+	 margin: 4px 0;
+	 display: inline-block;
+	 text-align: center;
+	 vertical-align: middle;
+	 cursor: pointer;
+	 background-image: none;
+	 border: 1px solid transparent;
+	 white-space: nowrap;
+	 padding: 1.25em 4.125em;
+	 line-height: 1.42857143;
+	 border-radius: 8px;
+	 -webkit-user-select: none;
+	 -moz-user-select: none;
+	 -ms-user-select: none;
+	 user-select: none;
+}
+ .assessment-opener-frame .previous-attempts-section div.buttons .btn.retake-button {
+	 padding: 15px 65px;
+}
+ .assessment-opener-frame .previous-attempts-section div.buttons .btn-default {
+	 background-image: none;
+	 background-color: #f1f5f9;
+	 color: #37383b;
+	 border: 1px solid #bdbdbd;
+	 border: 1px solid #BDBDBD;
+	 border-radius: 8px;
+	 font-size: 16px;
+	 color: #37383B;
+	 transition: all 0.25s ease 0s;
+}
+ .assessment-opener-frame .previous-attempts-section div.buttons .btn-default.retake-button {
+	 padding: 14px 65px;
+}
+ .assessment-opener-frame .previous-attempts-section div.buttons .btn-default:hover {
+	 border-color: #37383b;
+	 color: #006fbf;
+}
+ .assessment-opener-frame .previous-attempts-section div.buttons .btn-default:focus {
+	 outline: medium none;
+	 box-shadow: 0px 0px 0px 1px #FFF, 0px 0px 5px 2px #0073D8;
+	 color: #37383B;
+	 background-color: #F0F8FF;
+	 border-color: #37383B;
+}
+ .assessment-opener-frame .previous-attempts-section .attempt-status-row {
+	 padding: 8px 1rem 6px 1rem;
+}
+ @media (max-width: ) {
+	 .assessment-opener-frame .previous-attempts-section .attempt-status-row {
+		 padding-top: 8px;
+		 padding-bottom: 6px;
+	}
+}
+ .assessment-opener-frame .previous-attempts-section .attempt-status-row:nth-child(even) {
+	 background-color: #FAFBFD;
+	 border-top: 1px solid #EFEFEF;
+	 border-bottom: 1px solid #EFEFEF;
+}
+ .assessment-opener-frame .previous-attempts-section .empty-attempts-section-spacer {
+	 height: 40px;
+}
+ .ng-btn-primary-default {
+	 padding: 10px 26px;
+	 font-size: 14px;
+	 border-radius: 6px;
+}
+ .ng-btn-primary {
+	 padding: 15px 36px;
+	 border-radius: 8px;
+	 font-size: 16px;
+	 background-color: #006fbf;
+	 color: white;
+	 border: none;
+	 transition: all 0.25s ease;
+}
+ .ng-btn-primary:hover {
+	 cursor: pointer;
+	 background-color: #1C5295;
+	 text-decoration: none;
+	 color: white;
+}
+ .ng-btn-primary:focus {
+	 outline: none;
+	 box-shadow: 0 0 0 1px white, 0px 0px 5px 2px #0073d8;
+	 color: white;
+	 text-decoration: none;
+	 background-color: #1C5295;
+}
+ .ng-btn-primary:active {
+	 background-color: #133a6a;
+	 box-shadow: inset 2px 2px 5px 0px rgba(0,0,0,0.8);
+	 outline: none;
+}
+ .ng-btn-primary-wide {
+	 padding-left: 65px;
+	 padding-right: 65px;
+}
+ .ng-btn-default-primary {
+	 padding: 10px 26px;
+	 font-size: 14px;
+	 border-radius: 6px;
+}
+ .ng-btn-secondary {
+	 padding: 13px 34px;
+	 border: 1px solid #bdbdbd;
+	 border-radius: 8px;
+	 font-size: 16px;
+	 background-color: #f1f5f9;
+	 color: #37383b;
+	 transition: all 0.25s ease;
+}
+ .ng-btn-secondary:focus {
+	 outline: none;
+	 box-shadow: 0 0 0 1px white, 0px 0px 5px 2px #0073d8;
+	 color: #37383b;
+	 background-color: aliceblue;
+	 border-color: #37383b;
+}
+ .ng-btn-secondary:hover {
+	 cursor: pointer;
+	 border-color: #37383b;
+	 color: #006fbf;
+}
+ .ng-btn-secondary:active {
+	 background-color: aliceblue;
+	 box-shadow: inset 2px 2px 5px 0px rgba(0,0,0,0.3);
+	 outline: none;
+	 color: #37383b;
+	 border-color: #dcdcdc;
+}
+ .ng-btn-default-secondary {
+	 padding: 8px 24px;
+	 font-size: 14px;
+	 border-radius: 6px;
+}
+ .html-hint-content {
+	 width: 100%;
+	 margin-top: 70px;
+	 line-height: 1.5;
+	 color: #37383b;
+	 font-size: 16px;
+	 border-radius: 8px;
+	 background-color: #f0f8fd;
+	 font-weight: 300;
+	 padding: 20px;
+}
+ .hide-diagnostic-popup #test-save-submit {
+	 visibility: hidden;
+}
+ .hide-diagnostic-popup .lrn-assess-spinner {
+	 display: none;
+}
+ .theme-g6-12 .h4-tag {
+	 font-family: Bitter;
+}
+ .math-theme .assessment-vertical-bar {
+	 border-left: 6px solid #b966ce;
+}
+ .ela-theme .assessment-vertical-bar {
+	 border-left: 6px solid #33a3db;
+}
+ .standard-theme .assessment-vertical-bar {
+	 border-left: 6px solid #FF8F6F;
+}
+ .assessment-notification {
+	 position: relative;
+	 border: 1px solid #006fbf;
+	 border-radius: 5px;
+	 color: #006fbf;
+	 font-size: 1.3em;
+	 line-height: 1.15em;
+	 background-color: #F0F8FD;
+	 padding: 13px 35px 13px 15px;
+	 margin: -45px auto 20px auto;
+	 width: 60%;
+}
+ .assessment-notification .close-btn {
+	 position: absolute;
+	 top: 13px;
+	 right: 15px;
+	 color: #006fbf;
+	 font-size: 1.1em;
+}
+ .assessment-notification .close-btn:hover {
+	 text-decoration: none;
+	 opacity: 0.5;
+}
+ .assessment-notification .notification-title {
+	 font-size: 1.1em;
+	 font-weight: bold;
+}
+ .assessment-notification .notification-title .icon {
+	 color: #006fbf;
+	 font-size: 1.1em;
+	 vertical-align: middle;
+	 margin-right: 10px;
+}
+ .assessment-notification-warning {
+	 position: relative;
+	 border: 1px solid #98761E;
+	 border-radius: 5px;
+	 color: #98761E;
+	 font-size: 1.3em;
+	 line-height: 1.15em;
+	 background-color: #FFF8EE;
+	 padding: 13px 35px 13px 15px;
+	 margin: -45px auto 20px auto;
+	 width: 60%;
+}
+ .assessment-notification-warning .close-btn {
+	 position: absolute;
+	 top: 13px;
+	 right: 15px;
+	 color: #98761E;
+	 font-size: 1.1em;
+}
+ .assessment-notification-warning .close-btn:hover {
+	 text-decoration: none;
+	 opacity: 0.5;
+}
+ .assessment-notification-warning .notification-title {
+	 font-size: 1.1em;
+	 font-weight: bold;
+}
+ .assessment-notification-warning .notification-title .icon {
+	 color: #98761E;
+	 font-size: 1.1em;
+	 vertical-align: middle;
+	 margin-right: 10px;
+}
+ .assessment-bgprint {
+	 background-color: #fff !important;
+}
+ .print-document .lrn_textinput input[type="text"], #printSection .lrn_textinput input[type="text"] {
+	 border-color: #888 !important;
+}
+ .print-document .lrn-author-region button.lrn_validate, #printSection .lrn-author-region button.lrn_validate {
+	 display: none;
+}
+ .print-document .lrn-author-region .fib-empty-space, #printSection .lrn-author-region .fib-empty-space {
+	 background-color: #fff;
+	 border: 2px dashed #BDBDBD;
+	 padding: 3px 50px;
+}
+ .print-document .lrn-author-region .responses-container, #printSection .lrn-author-region .responses-container {
+	 clear: both;
+}
+ .print-document .lrn-author-region .responses-container .fib-dropdown-responses, #printSection .lrn-author-region .responses-container .fib-dropdown-responses {
+	 float: left;
+}
+ .print-document .lrn-author-region .responses-container .fib-dropdown-responses .response-number, #printSection .lrn-author-region .responses-container .fib-dropdown-responses .response-number {
+	 border-bottom: 1px solid #a0a0a0;
+	 padding-bottom: 3px;
+}
+ .print-document .lrn-author-region .responses-container .fib-dropdown-responses .response-number div, #printSection .lrn-author-region .responses-container .fib-dropdown-responses .response-number div {
+	 font-size: 20px;
+	 font-weight: 300;
+	 color: #4d4d4d;
+}
+ .print-document .lrn-author-region .responses-container .fib-dropdown-responses .response-list, #printSection .lrn-author-region .responses-container .fib-dropdown-responses .response-list {
+	 list-style-type: lower-alpha;
+	 font-size: 20px;
+	 font-weight: 300;
+	 color: #4d4d4d;
+}
+ .print-document .lrn-author-region .responses-container .fib-dropdown-responses .even-fib, #printSection .lrn-author-region .responses-container .fib-dropdown-responses .even-fib {
+	 clear: both;
+}
+ .print-document .lrn-author-region .responses-container .fib-dropdown-responses.clear-both, #printSection .lrn-author-region .responses-container .fib-dropdown-responses.clear-both {
+	 clear: both;
+}
+ .print-document .print-items-list, #printSection .print-items-list {
+	 padding: 20px;
+	 margin-top: 20px;
+}
+ .print-document .print-items-list .learnosity-item, #printSection .print-items-list .learnosity-item {
+	 border-bottom: 1px solid #c0c0c0;
+	 padding: 10px;
+	 margin: 5px 0;
+}
+ .print-document .print-items-list .learnosity-item .mq-root-block, #printSection .print-items-list .learnosity-item .mq-root-block {
+	 visibility: hidden !important;
+}
+ .print-document .print-items-list .learnosity-item div, .print-document .print-items-list .learnosity-item div text, .print-document .print-items-list .learnosity-item svg > text, .print-document .print-items-list .learnosity-item .lrn_response_input th, .print-document .print-items-list .learnosity-item .lrn_item, .print-document .print-items-list .learnosity-item .lrn_possibilityContainer span, #printSection .print-items-list .learnosity-item div, #printSection .print-items-list .learnosity-item div text, #printSection .print-items-list .learnosity-item svg > text, #printSection .print-items-list .learnosity-item .lrn_response_input th, #printSection .print-items-list .learnosity-item .lrn_item, #printSection .print-items-list .learnosity-item .lrn_possibilityContainer span {
+	 font-weight: 300;
+}
+ .print-document .print-items-list .learnosity-item svg > text, #printSection .print-items-list .learnosity-item svg > text {
+	 font-size: 1em;
+}
+ .print-document .print-items-list .learnosity-item .lrn_response_container, .print-document .print-items-list .learnosity-item span > input.lrn_textinput, #printSection .print-items-list .learnosity-item .lrn_response_container, #printSection .print-items-list .learnosity-item span > input.lrn_textinput {
+	 background-color: #fff;
+}
+ .print-document .print-items-list .learnosity-item .lrn_question, #printSection .print-items-list .learnosity-item .lrn_question {
+	 background-color: #fff;
+	 padding: 10px;
+}
+ .print-document .print-items-list .question_no_lbl, #printSection .print-items-list .question_no_lbl {
+	 font-weight: bold;
+}
+ .print-document .learnosity-item.lrn.lrn-item-processed .lrn_widget.lrn_feature, #printSection .learnosity-item.lrn.lrn-item-processed .lrn_widget.lrn_feature {
+	 padding-bottom: 16em !important;
+}
+ .print-document .section-default-theme, .print-document .section-light-theme, .print-document .section-medium-theme, .print-document .section-pattern-1-theme, .print-document .section-pattern-2-theme, .print-document .section-pattern-3-theme, #printSection .section-default-theme, #printSection .section-light-theme, #printSection .section-medium-theme, #printSection .section-pattern-1-theme, #printSection .section-pattern-2-theme, #printSection .section-pattern-3-theme {
+	 background-color: transparent;
+}
+ .print-document > #print-activity-detail #print-document-button {
+	 display: none;
+}
+ @media print {
+	 .lrn_widget {
+		 page-break-inside: auto !important;
+	}
+	 #printSection {
+		 position: relative;
+	}
+	 .print-items-list {
+		 border: 0 !important;
+	}
+	 #print-document-button {
+		 display: none;
+	}
+	 #print-document-close-button {
+		 display: none;
+	}
+	 .learnosity-item {
+		 page-break-after: always;
+		 border: none !important;
+	}
+	 .learnosity-item .mq-root-block {
+		 visibility: hidden !important;
+	}
+	 .learnosity-item .lrn_qr {
+		 border-bottom: solid 2px #999 !important;
+		 padding-bottom: 5px;
+	}
+	 .learnosity-item button.lrn_validate {
+		 display: none;
+	}
+	 .learnosity-item .lrn_response_container, .learnosity-item span > input.lrn_textinput, .learnosity-item span.fib-empty-space, .learnosity-item span.lrn_textinput {
+		 background-color: #ffffff !important;
+	}
+	 .learnosity-item .lrn_question {
+		 background-color: #e0e0e0 !important;
+	}
+	 .learnosity-item .fib-dropdown-responses {
+		 width: 50%;
+	}
+	 .learnosity-item:last-child {
+		 page-break-after: auto;
+	}
+}
+ #assessment-instructor {
+	 position: relative;
+	 width: 100%;
+	 height: 800px;
+}
+ #assessment-instructor iframe {
+	 position: absolute;
+	 top: 0;
+	 left: 0;
+	 width: 100%;
+	 height: 100%;
+	 padding: 0px;
+	 margin: 0px;
+	 border: 0px;
+}
+ @media (max-width: ) {
+	 .theme-gk-5 .assessment-container .print-button-container {
+		 padding-left: 25px;
+		 padding-right: 25px;
+	}
+}
+ 
